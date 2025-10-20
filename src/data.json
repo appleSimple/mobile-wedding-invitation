@@ -79,19 +79,19 @@
   "locationInfo": [
     {
       "title": "\uD83D\uDCCD KTX 수원역 (추천)",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 수인분당선(왕십리/청량리행) 승차 - 수원시청역 10번 출구 (도보 1분)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 수인분당선(매교역 방면) 승차 - 수원시청역 10번 출구 (도보 1분)"
     },
     {
       "title": "\uD83D\uDCCD SRT 동탄역",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB GTX-A(수서행) 승차 - 구성역 하차 후 수인분당선(고색/인천/오이도행) 환승 - 수원시청역 10번 출구 (도보 1분)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB GTX-A(수서행) 승차 - 구성역 하차 후 수인분당선(신갈역 방면) 환승 - 수원시청역 10번 출구 (도보 1분)"
     },
     {
       "title": "\uD83D\uDCCD 지하철",
       "desc": "\uD83D\uDC49\uD83C\uDFFB 수인분당선 수원시청역 10번 출구 (도보 1분)"
     },
     {
-      "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 파비오 더씨타 주차장 \n\uD83D\uDC49\uD83C\uDFFB 경인일보 주차장  \n\uD83D\uDC49\uD83C\uDFFB 경기아트센터 주차장"
+      "title": "\uD83D\uDCCD 자가용 이용시",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB '파티움하우스 수원' 검색 후, 주차요원 안내를 받아주세요. \n(경인일보, 파비오더씨타, 경기아트센터 中 1)"
     }
   ],
   "emojis": [
