@@ -9,26 +9,26 @@ const images = [
   {
     alt: 'image01',
     source: image01,
-    width: 640,
-    height: 960,
+    width: 960,
+    height: 640,
   },
   {
     alt: 'image02',
     source: image02,
     width: 640,
-    height: 960,
+    height: 910,
   },
   {
     alt: 'image03',
     source: image03,
-    width: 640,
-    height: 960,
+    width: 960,
+    height: 640,
   },
   {
     alt: 'image04',
     source: image04,
-    width: 640,
-    height: 960,
+    width: 960,
+    height: 640,
   },
   {
     alt: 'image05',
